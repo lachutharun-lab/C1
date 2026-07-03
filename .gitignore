@@ -2,4 +2,5 @@ node_modules/
 .env
 .env.local
 *.mp3
+!WhatsApp Audio 2026-05-29 at 3.34.47 AM.mp3
 package-lock.json
